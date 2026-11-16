@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Daily Productivity Monitor Pro V3",
+  "name": "Daily Productivity Monitor Pro V4",
   "short_name": "Productivity",
-  "description": "Offline productivity tracker with colour themes, MCQ and test analytics.",
+  "description": "Offline productivity tracker with section tabs, colour themes, MCQ and test analytics.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
